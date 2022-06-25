@@ -1,0 +1,24 @@
+{
+  "name": "zm-telgram-bot",
+  "version": "1.0.0",
+  "description": "[github.com/zero-miner/zm-telegram-bot](https://github.com/zero-miner/zm-telegram-bot)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero-miner/zm-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "Nikolay Gerzhan <nikolay.gerzhan@helpcontrol.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero-miner/zm-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/zero-miner/zm-telegram-bot#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  }
+}
